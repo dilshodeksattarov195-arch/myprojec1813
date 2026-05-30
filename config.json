@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvelete",
+        "uuid": 13642825,
+        "checksum": "9gqpsi"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
